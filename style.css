@@ -1,0 +1,16 @@
+.produto {
+    background-color: pink;
+    color: darkmagenta;
+    font-size: 25px;
+}
+
+.produto span {
+    font-size: 30px;
+    background-color: blueviolet;
+    color: aliceblue;
+}
+
+.promocao {
+
+    border: solid 30px black;
+}
